@@ -112,5 +112,5 @@ This project is open-source and available under the MIT licence.
 
 ### Conclusion
 This project has been implemented as a hobby and to showcase all my skills on a single one page webpage, which can be accessed globally. Ofcourse suggestions are always welcomed, and developers can use these blocks of code for their code usage as well (P.S - please update the asset folder as per your need). Thank you. Hope this helps
-```
+
 
